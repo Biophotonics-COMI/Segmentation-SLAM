@@ -40,4 +40,4 @@ python3 segmentation.py
 python3 segmentation.py -model homedir/resultsModeldir/15000.ckpt -test_dir homedir/testdir\ png/
 
 ## Citation
-If you find this useful or use this method in your work, please cite: xxx
+If you find this useful or use this method in your work, please cite: Sixian You, Eric J. Chaney, Haohua Tu, Yi Sun, Saurabh Sinha, Stephen A. Boppart. Label-free deep profiling of the tumor microenvironment. 
